@@ -8,7 +8,7 @@ class Counter
         count++;
     }
 }
-public class test
+public class ThreadSynchronizationDemo
 {
     public static void main(String[] args) throws InterruptedException
     {
