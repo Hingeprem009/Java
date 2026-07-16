@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-class test {
+class ParallelStreamDemo {
     public static void main(String[] args)
     {
         int size = 10000;
